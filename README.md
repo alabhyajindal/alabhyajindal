@@ -4,6 +4,6 @@ I enjoy working with JavaScript. I'm currently working on [Visits](https://visit
 
 🔧 I enjoy creating new things - like my recent Chrome Extension, [Search Select](https://chrome.google.com/webstore/detail/search-select/ijpalmkmpikekpglgjacfnaecdidhmgn).  
 ✍️ I love reading and writing. I am currently reading Mastery by Robert Greene. You can check out my blog [here](https://alabhyajindal.com/).  
-📖 I am always learning. Right now I am going through Eloquent JavaScript to improve my JS skills. You can check out my progress [here](https://github.com/alabhyajindal/eloquent). I am also broadening my knowledge about PostgreSQL and Node.js.
+📖 I am always learning. Right now I am going through Eloquent JavaScript to improve my JS skills. You can view my progress [here](https://github.com/alabhyajindal/eloquent). 
 
-Say hi on [Twitter](https://twitter.com/alabhyajindal)!
+Next.js, Supabase and Tailwind CSS are some of my favorite technologies. The best place to connect with me is on [Twitter](https://twitter.com/alabhyajindal), [say hi](https://twitter.com/messages/compose?recipient_id=1544983692&text=Hi%20Alabhya!)!
